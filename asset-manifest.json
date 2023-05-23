@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jaipur-tourists/static/css/main.f0005b70.css",
+    "main.js": "/jaipur-tourists/static/js/main.b4739989.js",
+    "static/media/about.jpeg": "/jaipur-tourists/static/media/about.7e8676e80c8ecf02ba4f.jpeg",
+    "static/media/main.jpeg": "/jaipur-tourists/static/media/main.1486d4061cd0252b9a21.jpeg",
+    "static/media/Jaipur.svg": "/jaipur-tourists/static/media/Jaipur.177fbec228ae0687846ebf8a0ded65dd.svg",
+    "index.html": "/jaipur-tourists/index.html",
+    "main.f0005b70.css.map": "/jaipur-tourists/static/css/main.f0005b70.css.map",
+    "main.b4739989.js.map": "/jaipur-tourists/static/js/main.b4739989.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0005b70.css",
+    "static/js/main.b4739989.js"
+  ]
+}
