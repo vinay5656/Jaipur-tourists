@@ -18,7 +18,10 @@ function Footer() {
       <ul className="footer-icons">
         {socialLinks.map((socialLink) => {
           return (
-            <li key={socialLink.id}>
+            <li
+              style={{ paddingLeft: "0.5rem", paddingRight: "0.5rem" }}
+              key={socialLink.id}
+            >
               <a
                 href={socialLink.href}
                 target="_blank"
@@ -38,7 +41,7 @@ function Footer() {
       <p className="copyright">
         copyright &copy; Jaipur travel tours company
         <span id="date">{new Date().getFullYear()}</span>
-        <p>Vinay Singh Chouhan</p>
+        <p style={{ marginTop: "1rem" }}>Vinay Singh Chouhan</p>
       </p>
     </footer>
   );
